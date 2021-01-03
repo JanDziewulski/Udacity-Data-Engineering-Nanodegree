@@ -19,7 +19,7 @@ Run `etl.py` from terminal or console to process and load data into database.
 *  artists - in music database
 *  time
 
-[Schema Design](png/diagram.png)
+![Image](png/diagram.png)
 
 # Purpose of this database
 This database allows to aggregate all songs, artists, users and songplays in a single database. In this way, the company disposes of the needed data stored in a unique structure and can thus analyze different scenarios easily. For instance, one can analyze the popularity of different songs or artists. Also, it is possible to perform analysis with geographic information. One can for instance determine which song is popular in which country and region.
