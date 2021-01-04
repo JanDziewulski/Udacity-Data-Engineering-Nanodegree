@@ -40,3 +40,5 @@ Data is extracted from two types of JSON source files: song data from the Millio
 2) Downloading json files and converting them to a file saved in the DataFarme structure (*Pandas Library*)
 3) Creating lists of data and saving them to specific tables
 4) Reading data from tables
+
+![Image](png/etl_process.png)
